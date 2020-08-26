@@ -52,7 +52,7 @@ using System.Text.Json.Serialization;
 
 [!code-csharp[](snippets/system-text-json-how-to/csharp/RoundtripToFile.cs?name=SnippetSerialize)]
 
-다음은 비동기 코드를 사용하여 JSON 파일을 만드는 예지입니다.
+다음은 비동기 코드를 사용하여 JSON 파일을 만드는 예제입니다.
 
 [!code-csharp[](snippets/system-text-json-how-to/csharp/RoundtripToFileAsync.cs?name=SnippetSerialize)]
 
