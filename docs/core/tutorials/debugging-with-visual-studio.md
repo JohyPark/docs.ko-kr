@@ -55,7 +55,7 @@ ms.locfileid: "84702069"
 
    ![Visual Studio의 중단점 스크린샷](./media/debugging-with-visual-studio/breakpoint-hit.png)
 
-## <a name="use-the-immediate-window"></a>즉시 실행 창 사용
+## <a name="use-the-immediate-window"></a>직접 실행 창 사용
 
 **직접 실행 창**에서는 디버그하는 애플리케이션을 조작할 수 있습니다. 대화형으로 변수 값을 변경하여 프로그램에 미치는 영향을 확인할 수 있습니다.
 
